@@ -1,4 +1,4 @@
-# 🛒 PRO 2 Retail Sales Analysis using SQL
+# 🛒 PREC 2 Retail Sales Analysis using SQL
 
 ## 📌 Project Overview
 
